@@ -111,6 +111,55 @@
 
 ---
 
+### 🤖 AI Tools I Employ
+<p align="center">
+  <a href="https://openai.com/chatgpt" target="_blank">
+    <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  </a>
+
+  <a href="https://deepseek.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-DeepSeek-0F172A?style=for-the-badge&logo=ai&logoColor=white"/>
+  </a>
+
+  <a href="https://claude.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/-Claude%20AI-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  </a>
+
+  <a href="https://cleanvoice.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/-Cleanvoice%20AI-00C7A4?style=for-the-badge&logo=soundcloud&logoColor=white"/>
+  </a>
+
+  <a href="https://pictory.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/-Pictory%20AI-FF5C93?style=for-the-badge&logo=adobe&logoColor=white"/>
+  </a>
+
+  <a href="https://www.deepbrain.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-DeepBrain%20AI-111827?style=for-the-badge&logo=neovim&logoColor=white"/>
+  </a>
+
+  <a href="https://www.elevenlabs.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-ElevenLabs-4A90E2?style=for-the-badge&logo=sonos&logoColor=white"/>
+  </a>
+
+  <a href="https://gemini.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  </a>
+
+  <a href="https://www.perplexity.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/-Perplexity-1F2937?style=for-the-badge&logo=plex&logoColor=white"/>
+  </a>
+
+  <a href="https://runwayml.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Runway%20ML-FF5252?style=for-the-badge&logo=video&logoColor=white"/>
+  </a>
+
+  <a href="https://www.heygen.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-HeyGen%20AI-6741FF?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ### 🔗 Connect With Me
 
 <p align="center">
