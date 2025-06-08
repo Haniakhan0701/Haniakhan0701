@@ -96,6 +96,20 @@
 
 ---
 
+### Design Tools
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</a>
+
+<a href="https://www.capcut.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+</a>
+
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+</a>
+
+
 ### 🔗 Connect With Me
 
 <p align="center">
