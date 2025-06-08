@@ -32,6 +32,10 @@
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </a>
+  <a href="https://wordpress.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+</a>
+
   <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   </a>
