@@ -79,6 +79,15 @@
 </p>
 
 ---
+### 🔗 Hosting Platforms
+<a href="https://www.netlify.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://vercel.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 
 ### 🔗 Connect With Me
 
