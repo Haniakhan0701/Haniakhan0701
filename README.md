@@ -86,6 +86,10 @@
 <a href="https://vercel.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+<a href="https://cloud.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</a>
+
 
 ---
 
