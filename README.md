@@ -111,7 +111,7 @@
 
 ---
 
-### 🤖 AI Tools I Employ
+### 🤖 AI Utilise
 <p align="center">
   <a href="https://openai.com/chatgpt" target="_blank">
     <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
