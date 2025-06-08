@@ -79,7 +79,7 @@
 </p>
 
 ---
-### 🔗 Hosting Platforms
+### Hosting Platforms
 <a href="https://www.netlify.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
@@ -89,7 +89,7 @@
 
 ---
 
-### 🔗API Testing
+### API Testing
 <a href="https://www.postman.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </a>
