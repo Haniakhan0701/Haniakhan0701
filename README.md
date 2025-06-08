@@ -11,7 +11,7 @@
 
 ---
 
-### 👩‍💻 Tech Stack
+###  Tech Stack
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -111,7 +111,7 @@
 
 ---
 
-### 🤖 AI Utilise
+###  AI Utilise
 <p align="center">
   <a href="https://openai.com/chatgpt" target="_blank">
     <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -160,7 +160,7 @@
 
 ---
 
-### 🔗 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hania-khan0701" target="_blank">
