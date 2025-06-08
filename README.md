@@ -69,8 +69,9 @@
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
   <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 </a>
-
-
+<a href="https://www.markdownguide.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+</a>
 </p>
 
 ---
