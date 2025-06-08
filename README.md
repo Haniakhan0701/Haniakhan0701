@@ -56,6 +56,14 @@
   <a href="https://www.apachefriends.org/index.html" target="_blank">
     <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
   </a>
+  <a href="https://nodejs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</a>
+
 </p>
 
 ---
