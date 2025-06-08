@@ -88,6 +88,11 @@
   <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+### 🔗API Testing
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</a>
+
 
 ### 🔗 Connect With Me
 
