@@ -222,50 +222,5 @@
   <a href="https://www.instagram.com/hania_khan0701/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
 </p>
-🚨 **POLICE TECH DIVISION - DEVELOPER DOSSIER** 🚨
 
-🔎 **IDENTITY CONFIRMED**  
-**@HaniaKhan0701**  
-*"Code Never Lies"*  
-📍 Base of Operations: Multan, Punjab PK  
-🛠️ **Specializations:** Full-Stack Engineering, AI Recon, System Forensics  
-
----
-
-### 🚔 **WANTED SKILLS**  
-*(Armed and Dangerous with These Technologies)*  
-
-| **CATEGORY**       | **WEAPONS OF CHOICE**                                                                 |
-|--------------------|---------------------------------------------------------------------------------------|
-| Programming        | ![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-yellow?logo=python) |
-| Web Tactics        | ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5) ![React](https://img.shields.io/badge/-React-black?logo=react) |
-| Data Recon         | ![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-orange?logo=mysql) |
-| Cyber Ops          | ![Linux](https://img.shields.io/badge/-Linux-333?logo=linux) ![Git](https://img.shields.io/badge/-Git-red?logo=git) |
-
----
-
-### 📂 **CASE FILES (Projects)**  
-*(Active Investigations)*  
-
-- **Case #001:** [Amazon Crime Scene Clone](https://github.com/HaniaKhan0701/Amazon-Clone) *(UI Forgery)*  
-- **Case #045:** [ATM Heist Simulation](https://github.com/HaniaKhan0701/ATM-System) *(Financial Systems Penetration)*  
-- **Case #TOP_SECRET:** [DSA Evidence Locker](https://github.com/HaniaKhan0701/DSA-Projects) *(Data Structure Analysis)*  
-
----
-
-### 📊 **EVIDENCE LOCKER STATS**  
-![Most Wanted Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HaniaKhan0701&layout=compact&theme=vision-friendly-dark)  
-![Criminal Record](https://github-readme-stats.vercel.app/api?username=HaniaKhan0701&show_icons=true&theme=radical&hide_title=true)
-
----
-
-### 🚓 **APB: ALL POINTS BULLETIN**  
-*(Wanted for Collaboration)*  
-
-📻 **Frequency Channels:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-link)  
-
-⚠️ **WARNING:** Subject is known to solve complex problems with clean code. Approach with interesting projects.  
