@@ -116,6 +116,20 @@
 
 ---
 
+###  DATABASE / ORM
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+<a href="https://laravel.com/docs/eloquent" target="_blank">
+  <img src="https://img.shields.io/badge/-Eloquent ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</a>
+<a href="https://www.sqlalchemy.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-SQLAlchemy-262626?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+---
+
 ### DESIGN TOOLS
 <a href="https://www.canva.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
