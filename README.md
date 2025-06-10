@@ -6,7 +6,7 @@
   <b>Identity Confirmed:</b> @HaniaKhan0701<br>
   <b>Status:</b> 🟢 ACTIVE & Evolving<br>
   <b>Role:</b> Computer Engineer // Full Stack Web Developer // AI-Prompting Explorer<br>
-  <b>Location:</b> Multan, Punjab, Pakistan<br>
+  <b>Base Of Operations:</b> Pakistan<br>
   <b>Mission:</b> Build, Learn, Innovate, Dominate.
 </p>
 
