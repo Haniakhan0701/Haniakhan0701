@@ -1,8 +1,9 @@
 
 <h1 align="center">🚨 Access Logged: [ Classified Profile Detected ]</h1>
+CODE NEVER LIES BUT MAY STINK
 
 <p align="center">
-  <b>User:</b> @HaniaKhan0701<br>
+  <b>Identity Confirmed:</b> @HaniaKhan0701<br>
   <b>Status:</b> 🟢 ACTIVE & Evolving<br>
   <b>Role:</b> Computer Engineer // Full Stack Web Developer // AI-Prompting Explorer<br>
   <b>Location:</b> Multan, Punjab, Pakistan<br>
