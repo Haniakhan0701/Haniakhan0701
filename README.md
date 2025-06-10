@@ -1,6 +1,6 @@
 
 <h1 align="center">🚨 Access Logged: [ Classified Profile Detected ]</h1>
-*"Code Never Lies"* 
+CODE NEVER LIES
 
 <p align="center">
   <b>Identity Confirmed:</b> @HaniaKhan0701<br>
