@@ -224,3 +224,11 @@
 </a>
 
 </p>
+### 🚔 **WANTED SKILLS**  
+*(Armed and Dangerous with These Technologies)*  
+
+| **CATEGORY**       | **WEAPONS OF CHOICE**                                                                 |
+|--------------------|---------------------------------------------------------------------------------------|
+| Programming        | ![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-yellow?logo=python) |
+| Web Tactics        | ![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5) ![React](https://img.shields.io/badge/-React-black?logo=react) |
+| Data Recon         | ![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-orange?logo=mysql) |
