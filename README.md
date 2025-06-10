@@ -87,6 +87,8 @@
   <a href="https://www.apachefriends.org/index.html" target="_blank">
     <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
   </a>
+  <a href="https://laragon.org/" target="_blank"> <img src="https://img.shields.io/badge/-Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white"/>
+  </a>  
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
   </a>
