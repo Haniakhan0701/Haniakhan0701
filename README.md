@@ -11,11 +11,11 @@
 
 ---
 
-###  Tech Stack
+###  TECH STACK
 
 ---
 
-####   Languages
+####   LANGUAGES
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -39,7 +39,7 @@
 
 ---
 
-####   Frameworks & Libraries
+####   FRAMEWORKS & LIBRARIES
 <p align="center">
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -66,7 +66,7 @@
 
 ---
 
-####   Tools & Platforms
+####   TOOLS AND PLATFORMS
 <p align="center">
   <a href="https://wordpress.org/" target="_blank">
     <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
@@ -95,7 +95,7 @@
 
 
 ---
-### Hosting Platforms
+### HOSTING PLATFORMS
 <a href="https://www.netlify.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
@@ -109,14 +109,14 @@
 
 ---
 
-### API Testing
+### API TESTING
 <a href="https://www.postman.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </a>
 
 ---
 
-### Design Tools
+### DESIGN TOOLS
 <a href="https://www.canva.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </a>
@@ -131,7 +131,7 @@
 
 ---
 
-###  AI Utilise
+###  AI UTILISE
 <p align="center">
   <a href="https://openai.com/chatgpt" target="_blank">
     <img src="https://img.shields.io/badge/-ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
