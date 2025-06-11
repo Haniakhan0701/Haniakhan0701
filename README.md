@@ -3,10 +3,14 @@
 CODE NEVER LIES
 
 <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1dG5mZG5iZ3BqY2V1Z2N4Z3B5Y2VjZzR6eWZ6d2JjYzZ0cWZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ1h2MDXQ4/giphy.gif" width="150">
+</p>
+
+<p align="center">
   <b>Identity Confirmed:</b> @HaniaKhan0701<br>
-  <b>Status:</b> 🟢 ACTIVE & Evolving<br>
+  <b>Status:</b> 🟢 ACTIVE & Armed<br>
   <b>Role:</b> Computer Engineer // Full Stack Web Developer // AI-Prompting Explorer<br>
-  <b>Base Of Operations:</b> Pakistan<br>
+  <b>Last known Location:</b> Pakistan<br>
   <b>Mission:</b> Build, Learn, Innovate, Dominate.
 </p>
 
@@ -223,24 +227,9 @@ CODE NEVER LIES
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
-<h1 align="center">🚨 POLICIA TECH DIVISION - DEVELOPER DOSSIER 🚨</h1>
-<h3 align="center"><i>"Code Never Lies"</i></h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1dG5mZG5iZ3BqY2V1Z2N4Z3B5Y2VjZzR6eWZ6d2JjYzZ0cWZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ1h2MDXQ4/giphy.gif" width="150">
-</p>
-
-<p align="center">
-  <b>🔎 IDENTIFIED SUSPECT:</b> @HaniaKhan0701<br>
-  <b>🟢 STATUS:</b> ACTIVE & ARMED (with code)<br>
-  <b>🛠️ SPECIALIZATION:</b> Full-Stack Engineering // AI Recon<br>
-  <b>📍 LAST KNOWN LOCATION:</b> Multan, PK<br>
-  <b>⚠️ WARNING:</b> Highly skilled in system infiltration and clean code operations
-</p>
 
 ---
-
-### 🚔 **WANTED FOR POSSESSION OF ILLEGAL TECH STACK**
 
 #### 🔫 **PROGRAMMING LANGUAGES** *(Dangerous Weapons)*
 <p align="center">
