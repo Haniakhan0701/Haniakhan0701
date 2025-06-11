@@ -8,7 +8,7 @@ CODE NEVER LIES
 
 <p align="center">
   <b>Identity Confirmed:</b> @HaniaKhan0701<br>
-  <b>Status:</b> 🟢 ACTIVE & Armed<br>
+  <b>Status:</b> 🟢 ACTIVE & ARMED<br>
   <b>Role:</b> Computer Engineer // Full Stack Web Developer // AI-Prompting Explorer<br>
   <b>Last known Location:</b> Pakistan<br>
   <b>Mission:</b> Build, Learn, Innovate, Dominate.
@@ -205,7 +205,7 @@ CODE NEVER LIES
 
 ---
 
-###  Connect With Me
+###  🚓 **APB: APPROACH WITH CAUTION**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hania-khan0701" target="_blank">
@@ -252,17 +252,4 @@ CODE NEVER LIES
 
 ---
 
-### 🚓 **APB: APPROACH WITH CAUTION**
-<p align="center">
-  <a href="https://www.linkedin.com/in/hania-khan0701">
-    <img src="https://img.shields.io/badge/-POLICE_RADIO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:haniakhanx45@gmail.com">
-    <img src="https://img.shields.io/badge/-SECURE_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HaniaKhan0701&label=PROFILE_VIEWS&color=F8D210&style=flat-square" alt="police surveillance counter">
-</p>
 
