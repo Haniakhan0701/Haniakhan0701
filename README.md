@@ -231,22 +231,8 @@ CODE NEVER LIES
 
 ---
 
-#### 🔫 **PROGRAMMING LANGUAGES** *(Dangerous Weapons)*
-<p align="center">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=1A1A2E">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1A1A2E">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1A1A2E">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=1A1A2E">
-</p>
 
-#### 🕵️ **FRAMEWORKS** *(Tools of the Trade)*
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1A1A2E">
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=1A1A2E">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1A1A2E">
-</p>
-
-#### 💼 **EVIDENCE LOCKER** *(Projects)*
+####  **EVIDENCE LOCKER** *(Projects)*
 <p align="center">
   <a href="https://github.com/HaniaKhan0701/Amazon-Clone">
     <img src="https://img.shields.io/badge/-AMAZON_CLONE-E34F26?style=for-the-badge&logo=amazon&logoColor=white">
@@ -258,7 +244,7 @@ CODE NEVER LIES
 
 ---
 
-### 📊 **CRIMINAL RECORD STATS**
+### 📊 **SUSPECT RECORD STATS**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HaniaKhan0701&show_icons=true&theme=vision-friendly-dark&bg_color=1A1A2E&title_color=F8D210&text_color=FFFFFF&border_color=F8D210">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaniaKhan0701&layout=compact&theme=vision-friendly-dark&bg_color=1A1A2E&title_color=F8D210&text_color=FFFFFF&border_color=F8D210">
