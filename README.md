@@ -15,7 +15,7 @@ CODE NEVER LIES
 </p>
 
 ---
-### 🚔 *WANTED SKILLS*  
+###  *WANTED SKILLS*  
 *(Armed and Dangerous with These Technologies)*  
 
 | *CATEGORY*       | *WEAPONS OF CHOICE* |
