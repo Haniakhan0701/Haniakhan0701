@@ -73,7 +73,7 @@ CODE NEVER LIES
 
 ---
 
-### 📊 **SUSPECT RECORD STATS**
+### 📊 **RECORD STATS**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HaniaKhan0701&show_icons=true&theme=vision-friendly-dark&bg_color=1A1A2E&title_color=F8D210&text_color=FFFFFF&border_color=F8D210">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaniaKhan0701&layout=compact&theme=vision-friendly-dark&bg_color=1A1A2E&title_color=F8D210&text_color=FFFFFF&border_color=F8D210">
