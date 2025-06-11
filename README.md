@@ -1,5 +1,5 @@
 
-<h1 align="center">🚨 Access Logged: [ Classified Profile Detected ]🚨</h1>
+<h1 align="center">🚨 Access Logged:Classified Profile Detected </h1>
 CODE NEVER LIES
 
 <p align="center">
