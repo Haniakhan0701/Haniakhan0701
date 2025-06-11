@@ -223,4 +223,71 @@ CODE NEVER LIES
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </p>
+<h1 align="center">🚨 POLICIA TECH DIVISION - DEVELOPER DOSSIER 🚨</h1>
+<h3 align="center"><i>"Code Never Lies"</i></h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1dG5mZG5iZ3BqY2V1Z2N4Z3B5Y2VjZzR6eWZ6d2JjYzZ0cWZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ1h2MDXQ4/giphy.gif" width="150">
+</p>
+
+<p align="center">
+  <b>🔎 IDENTIFIED SUSPECT:</b> @HaniaKhan0701<br>
+  <b>🟢 STATUS:</b> ACTIVE & ARMED (with code)<br>
+  <b>🛠️ SPECIALIZATION:</b> Full-Stack Engineering // AI Recon<br>
+  <b>📍 LAST KNOWN LOCATION:</b> Multan, PK<br>
+  <b>⚠️ WARNING:</b> Highly skilled in system infiltration and clean code operations
+</p>
+
+---
+
+### 🚔 **WANTED FOR POSSESSION OF ILLEGAL TECH STACK**
+
+#### 🔫 **PROGRAMMING LANGUAGES** *(Dangerous Weapons)*
+<p align="center">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=1A1A2E">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1A1A2E">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1A1A2E">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=1A1A2E">
+</p>
+
+#### 🕵️ **FRAMEWORKS** *(Tools of the Trade)*
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1A1A2E">
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=1A1A2E">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1A1A2E">
+</p>
+
+#### 💼 **EVIDENCE LOCKER** *(Projects)*
+<p align="center">
+  <a href="https://github.com/HaniaKhan0701/Amazon-Clone">
+    <img src="https://img.shields.io/badge/-AMAZON_CLONE-E34F26?style=for-the-badge&logo=amazon&logoColor=white">
+  </a>
+  <a href="https://github.com/HaniaKhan0701/ATM-System">
+    <img src="https://img.shields.io/badge/-ATM_HEIST-00599C?style=for-the-badge&logo=bank&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 📊 **CRIMINAL RECORD STATS**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaniaKhan0701&show_icons=true&theme=vision-friendly-dark&bg_color=1A1A2E&title_color=F8D210&text_color=FFFFFF&border_color=F8D210">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaniaKhan0701&layout=compact&theme=vision-friendly-dark&bg_color=1A1A2E&title_color=F8D210&text_color=FFFFFF&border_color=F8D210">
+</p>
+
+---
+
+### 🚓 **APB: APPROACH WITH CAUTION**
+<p align="center">
+  <a href="https://www.linkedin.com/in/hania-khan0701">
+    <img src="https://img.shields.io/badge/-POLICE_RADIO-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:haniakhanx45@gmail.com">
+    <img src="https://img.shields.io/badge/-SECURE_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HaniaKhan0701&label=PROFILE_VIEWS&color=F8D210&style=flat-square" alt="police surveillance counter">
+</p>
 
