@@ -33,7 +33,7 @@ CODE NEVER LIES
 
 
 
-###  🚓 ** APPROACH WITH CAUTION**
+###   **APPROACH WITH CAUTION**
 (Wanted for Collaboration) 
 
 <p align="center">
