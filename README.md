@@ -43,9 +43,10 @@ CODE NEVER LIES
   <a href="https://medium.com/@haniakhanx45" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="https://www.fiverr.com/haniakhan539/buying?source=avatar_menu_profile" target="_blank">
-    <img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-  </a>
+<a href="http://www.fiverr.com/s/EgykRd7" target="_blank">
+  <img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</a>
+
   <a href="https://bio.site/haniaKhan" target="_blank">
     <img src="https://img.shields.io/badge/-Bio.site-000000?style=for-the-badge&logo=aboutdotme&logoColor=white"/>
   </a>
