@@ -1,6 +1,6 @@
 
 <h1 align="center">🚨 Access Logged:Classified Profile Detected </h1>
-CODE NEVER LIES BUT YOU CANT TRUST CODE THAT YOU DIDNT TOTALLY CREATE YOURSELF
+CODE NEVER LIES BUT YOU CAN'T TRUST CODE THAT YOU DIDN'T TOTALLY CREATE YOURSELF
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1dG5mZG5iZ3BqY2V1Z2N4Z3B5Y2VjZzR6eWZ6d2JjYzZ0cWZ6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKsQ8UQ1h2MDXQ4/giphy.gif" width="150">
